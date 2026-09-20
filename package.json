@@ -20,6 +20,6 @@
   "homepage": "https://github.com/Anmulzhao/apoverse#readme",
   "devDependencies": {
     "@openzeppelin/contracts": "^4.9.6",
-    "hardhat": "^3.3.0"
+    "hardhat": "^3.17.0"
   }
 }
